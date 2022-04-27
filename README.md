@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS
-- 🌱 I’m currently learning Python, AWS and System Design
+- 🌱 I’m currently learning Python, AWS and System Design and Data Analytics
 - 👯 I’m looking to collaborate on System Design, Backend Development 
 - 🤔 I’m looking for help with AWS and System Design
 - 💬 Ask me about Electronics, Microcontrollers, SoC, IOT and Industry 4.0
